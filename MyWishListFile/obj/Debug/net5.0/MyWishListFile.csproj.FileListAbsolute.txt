@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.genruntimeconfig.cache

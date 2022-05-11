@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\ref\DirectoriesAndFiles.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\ref\DirectoriesAndFiles.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.genruntimeconfig.cache

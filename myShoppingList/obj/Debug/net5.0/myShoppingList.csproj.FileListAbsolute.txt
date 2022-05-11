@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\ref\myShoppingList.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\bin\Debug\net5.0\myShoppingList.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\ref\myShoppingList.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\myShoppingList\obj\Debug\net5.0\myShoppingList.genruntimeconfig.cache

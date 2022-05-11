@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\ref\Wishlist.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\bin\Debug\net5.0\Wishlist.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\ref\Wishlist.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\DirectoriesAndFiles\Wishlist\obj\Debug\net5.0\Wishlist.genruntimeconfig.cache
